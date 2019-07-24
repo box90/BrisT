@@ -1,4 +1,5 @@
 ﻿using System;
+using BrisT.Deck;
 
 namespace BrisT
 {
@@ -6,7 +7,10 @@ namespace BrisT
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
+            BrisT.Deck.Deck d = new BrisT.Deck.Deck();
+            d.PrintDeck();
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\bin\Debug\netcoreapp2.2\BrisT.deps.json
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\bin\Debug\netcoreapp2.2\BrisT.runtimeconfig.json
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\bin\Debug\netcoreapp2.2\BrisT.runtimeconfig.dev.json
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\bin\Debug\netcoreapp2.2\BrisT.dll
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\bin\Debug\netcoreapp2.2\BrisT.pdb
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\obj\Debug\netcoreapp2.2\BrisT.csprojAssemblyReference.cache
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\obj\Debug\netcoreapp2.2\BrisT.csproj.CoreCompileInputs.cache
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\obj\Debug\netcoreapp2.2\BrisT.AssemblyInfoInputs.cache
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\obj\Debug\netcoreapp2.2\BrisT.AssemblyInfo.cs
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\obj\Debug\netcoreapp2.2\BrisT.dll
+C:\Users\bossima1\Desktop\Box\Projects\BrisT\BrisT\obj\Debug\netcoreapp2.2\BrisT.pdb

@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace BrisT.Deck
@@ -11,7 +12,8 @@ namespace BrisT.Deck
 
         public Deck()
         {
-            List<string> sets = new List<string>{"♠","♥","♦", "♣"}; 
+            List<string> setsUNICODE = new List<string>{"♠","♥","♦", "♣"};
+            List<string> sets = new List<string>{"P","C","Q","F"}; 
             cards = new List<Card>();
 
             for (int i = 1; i <= CARD_MAX; i++)
@@ -20,6 +22,14 @@ namespace BrisT.Deck
                 {
                     cards.Add(new Card(set,i));
                 }
+            }
+        }
+
+        public void PrintDeck()
+        {
+            foreach (Card card in cards)
+            {
+                Console.WriteLine(card.CardName());
             }
         }
     }

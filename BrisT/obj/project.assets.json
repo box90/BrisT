@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bossima1\\Desktop\\Box\\Projects\\SignalR\\BrisT\\BrisT.csproj",
+      "projectUniqueName": "C:\\Users\\bossima1\\Desktop\\Box\\Projects\\BrisT\\BrisT\\BrisT.csproj",
       "projectName": "BrisT",
-      "projectPath": "C:\\Users\\bossima1\\Desktop\\Box\\Projects\\SignalR\\BrisT\\BrisT.csproj",
+      "projectPath": "C:\\Users\\bossima1\\Desktop\\Box\\Projects\\BrisT\\BrisT\\BrisT.csproj",
       "packagesPath": "C:\\Users\\bossima1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bossima1\\Desktop\\Box\\Projects\\SignalR\\BrisT\\obj\\",
+      "outputPath": "C:\\Users\\bossima1\\Desktop\\Box\\Projects\\BrisT\\BrisT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
