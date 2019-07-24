@@ -1,0 +1,14 @@
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\bin\Debug\netcoreapp2.2\SignalRWebPack.deps.json
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\bin\Debug\netcoreapp2.2\SignalRWebPack.runtimeconfig.json
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\bin\Debug\netcoreapp2.2\SignalRWebPack.runtimeconfig.dev.json
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\bin\Debug\netcoreapp2.2\SignalRWebPack.dll
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\bin\Debug\netcoreapp2.2\SignalRWebPack.pdb
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.csprojAssemblyReference.cache
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.csproj.CoreCompileInputs.cache
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.RazorAssemblyInfo.cache
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.RazorAssemblyInfo.cs
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.AssemblyInfoInputs.cache
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.AssemblyInfo.cs
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.RazorTargetAssemblyInfo.cache
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.dll
+C:\Users\bossima1\Desktop\Box\Projects\SignalR\SignalRWebPack\obj\Debug\netcoreapp2.2\SignalRWebPack.pdb
